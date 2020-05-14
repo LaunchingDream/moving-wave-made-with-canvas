@@ -1,8 +1,6 @@
-import {
-    Point
-} from './point.js';
+import Point from './point.js';
 
-export class Wave {
+export default class Wave {
     constructor () {
     }
 
